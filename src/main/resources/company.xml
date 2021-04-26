@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<company>
+    <name>Banco A</name>
+    <cif>ADF34dAFDA</cif>
+    <departments>
+        <department>
+            <name>RRHH</name>
+            <employees>
+                <employee>
+                    <nif>4712415d</nif>
+                    <name>ASDFADF</name>
+                    <surnames>DFEf</surnames>
+                    <role>Director</role>
+                    <cp>2447</cp>
+                </employee>
+                <employee>
+                    <nif>32432</nif>
+                    <name>Pepe</name>
+                    <surnames>DFEf</surnames>
+                    <role>Empleado</role>
+                    <cp>2447</cp>
+                </employee>
+
+                <employee>
+                    <nif>4715245d</nif>
+                    <name>Ana</name>
+                    <surnames>DFEf</surnames>
+                    <role>Directora</role>
+                    <cp>2447</cp>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</company>
